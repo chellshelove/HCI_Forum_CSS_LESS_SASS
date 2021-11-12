@@ -1,5 +1,5 @@
-@font-color: #fff;
-@bg-color: #00f;
+@font-color: #ccf;
+@bg-color: #c99;
  
 #box{
   color: @font-color;

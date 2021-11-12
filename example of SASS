@@ -1,5 +1,5 @@
-$font-color: #fff;
-$bg-color: #00f;
+$font-color: #cff;
+$bg-color: #ffc;
  
 #box
 {

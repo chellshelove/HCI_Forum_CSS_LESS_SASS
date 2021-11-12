@@ -15,6 +15,7 @@ p {
     font-size: 22px;
     font-family: 'Arial', Times, serif;
     color:lightskyblue;
+    text-align: left;
 }
 
 li {
