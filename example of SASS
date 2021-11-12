@@ -1,0 +1,8 @@
+$font-color: #fff;
+$bg-color: #00f;
+ 
+#box
+{
+  color: $font-;
+  background: $bg-color;
+}
